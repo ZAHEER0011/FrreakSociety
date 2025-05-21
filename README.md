@@ -44,4 +44,4 @@ We offer services like:
 
     Newsletter subscription (visual only; integration in future scope)
 
-    Clean layout with Glassmorphism and minimalism principles
+    Clean layout
